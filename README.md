@@ -2,6 +2,10 @@
 
 - Projeto de solução para o desafio 03 da trilha React do treinamento Ignite da RocketSeat
 
+# Preview
+
+![preview](./preview/preview.gif)
+
 # Rodando o projeto
 
 - Requerimento: Node 14^
